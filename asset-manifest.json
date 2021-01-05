@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/team_ph_react_calendar/static/css/main.68f36228.chunk.css",
+    "main.js": "/team_ph_react_calendar/static/js/main.638cbc57.chunk.js",
+    "main.js.map": "/team_ph_react_calendar/static/js/main.638cbc57.chunk.js.map",
+    "runtime-main.js": "/team_ph_react_calendar/static/js/runtime-main.56e76989.js",
+    "runtime-main.js.map": "/team_ph_react_calendar/static/js/runtime-main.56e76989.js.map",
+    "static/css/2.06382735.chunk.css": "/team_ph_react_calendar/static/css/2.06382735.chunk.css",
+    "static/js/2.ef1b10ec.chunk.js": "/team_ph_react_calendar/static/js/2.ef1b10ec.chunk.js",
+    "static/js/2.ef1b10ec.chunk.js.map": "/team_ph_react_calendar/static/js/2.ef1b10ec.chunk.js.map",
+    "static/js/3.274c4cba.chunk.js": "/team_ph_react_calendar/static/js/3.274c4cba.chunk.js",
+    "static/js/3.274c4cba.chunk.js.map": "/team_ph_react_calendar/static/js/3.274c4cba.chunk.js.map",
+    "index.html": "/team_ph_react_calendar/index.html",
+    "static/css/2.06382735.chunk.css.map": "/team_ph_react_calendar/static/css/2.06382735.chunk.css.map",
+    "static/css/main.68f36228.chunk.css.map": "/team_ph_react_calendar/static/css/main.68f36228.chunk.css.map",
+    "static/js/2.ef1b10ec.chunk.js.LICENSE.txt": "/team_ph_react_calendar/static/js/2.ef1b10ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56e76989.js",
+    "static/css/2.06382735.chunk.css",
+    "static/js/2.ef1b10ec.chunk.js",
+    "static/css/main.68f36228.chunk.css",
+    "static/js/main.638cbc57.chunk.js"
+  ]
+}
