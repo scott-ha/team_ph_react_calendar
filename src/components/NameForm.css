@@ -1,0 +1,19 @@
+/* .form {
+  display: flex;
+} */
+
+.form input {
+  flex: 0;
+  font-size: 1.25rem;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgba(113, 113, 113, 1);
+  margin: 25px;
+  text-align: center;
+}
+
+.h1-tc {
+  color: rgba(49, 144, 214, 1);
+  margin-top: 80px;
+  margin-bottom: -30px;
+}
